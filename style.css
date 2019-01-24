@@ -1,0 +1,25 @@
+body {
+  background-color: #041528
+}
+h1, div {
+    color: #6ED6BF;
+}
+.flex-container {
+    display: flex;
+    border: 1px solid yellow;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 0px;
+    margin: 0px;
+}
+.flex-items {
+    background-color: tomato;
+    color: yellow;
+    line-height: 100px;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+   
+}
